@@ -85,8 +85,3 @@ How many times repeated each element: {5: 3, 4: 3, 2: 2, 1: 2, 3: 2, 6: 2, 7: 1}
 ## 🎯 Learning Outcome
 
 Practiced finding unique elements and counting the occurrences of each element using two separate Python programs.
-
----
-
-**Submitted to:** Atul Sir  
-**Institute:** Kiran Academy
